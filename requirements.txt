@@ -1,0 +1,11 @@
+
+# Backend API
+fastapi
+uvicorn[standard]
+
+# Environment configuration
+python-dotenv
+
+# HTTP requests
+requests
+httpx
